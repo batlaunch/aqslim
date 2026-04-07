@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { MapPin, Phone, Globe, Clock, Send } from "lucide-react";
+import { MapPin, Phone, Clock, Send } from "lucide-react";
 
 const ContactSection = () => {
   const [form, setForm] = useState({ name: "", email: "", phone: "", goals: "" });
