@@ -47,15 +47,6 @@ const ContactSection = () => {
                 </div>
               </div>
 
-              <div className="flex items-start gap-4">
-                <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center flex-shrink-0">
-                  <Globe className="w-5 h-5 text-primary-foreground" />
-                </div>
-                <div>
-                  <h4 className="font-heading font-semibold text-foreground">Website</h4>
-                  <a href="http://www.aqslim.com" target="_blank" rel="noopener noreferrer" className="text-primary text-sm hover:underline">www.aqslim.com</a>
-                </div>
-              </div>
 
               <div className="flex items-start gap-4">
                 <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center flex-shrink-0">
